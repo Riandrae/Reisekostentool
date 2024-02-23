@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1db58ad29304021056ed367f3bba10fb" label="Stammbaum" max_length="40" name="u_stammbaum" type="collection">
+        <element label="Alter" max_length="40" name="u_alter" type="glide_date"/>
+        <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Verwandschaftsgrad" max_length="40" name="u_verwandschaftsgrad" type="integer"/>
+        <element label="Vorname" max_length="40" name="u_vorname" type="string"/>
+    </element>
+</database>
